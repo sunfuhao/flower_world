@@ -18,3 +18,5 @@ logs_train_dir = 'D:/ML/flower/save'  # logs存储路径
 - 运行train.py开始训练。
 - 训练完成后，修改test.py中的`logs_train_dir = 'D:/ML/flower/save/'`为你的目录。
 - 运行test.py或者gui.py查看结果。
+
+转载博客：https://blog.csdn.net/Colin_xuan/article/details/91535772
